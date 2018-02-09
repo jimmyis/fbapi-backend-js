@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jimmyis/fbapi-backend-js/issues"
   },
-  "homepage": "https://github.com/jimmyis/fbapi-backend-js#readme"
+  "homepage": "https://github.com/jimmyis/fbapi-backend-js#readme",
+  "dependencies": {
+    "koa": "2.4.1"
+  }
 }
