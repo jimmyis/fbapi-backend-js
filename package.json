@@ -1,0 +1,19 @@
+{
+  "name": "fbapi-back-koajs2",
+  "version": "0.0.1",
+  "description": "Basic Back-end App for Facebook API, Created with KoaJS2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyis/fbapi-backend-js.git"
+  },
+  "author": "jimmyis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmyis/fbapi-backend-js/issues"
+  },
+  "homepage": "https://github.com/jimmyis/fbapi-backend-js#readme"
+}
